@@ -1,0 +1,12 @@
+@import '../core/utils';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    @include smart-sizing-sense((font-size:24));
+    font-family: $rob-regular;
+}
