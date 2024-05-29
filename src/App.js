@@ -6,7 +6,7 @@ import '.'
 function App() {
   return (
     <div className="App">
-      <h2 className='title'>Born To Achieve Great Things!</h2>
+      <h2 className='title'>Born To Achieve Great Things! </h2>
     </div>
   );
 }
